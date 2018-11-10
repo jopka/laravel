@@ -1,0 +1,1 @@
+<pre><?php echo e($rooms); ?></pre>
